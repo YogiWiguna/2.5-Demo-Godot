@@ -1,0 +1,4 @@
+res://assets/demo_scene.tscn
+res://addons/node25d/node_25d.gd
+res://addons/node25d/shadow_math_25d.gd
+res://addons/node25d/y_sort_25d.gd
